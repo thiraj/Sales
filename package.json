@@ -1,0 +1,16 @@
+{
+  "private": true,
+
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "*"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "browserify": "^13.0.1",
+    "gulp": "^3.9.1"
+  }
+}
